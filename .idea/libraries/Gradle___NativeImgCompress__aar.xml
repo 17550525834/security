@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :NativeImgCompress:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/391cd7f793a3fa454c7dc28e77bd5f8d/NativeImgCompress/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/391cd7f793a3fa454c7dc28e77bd5f8d/NativeImgCompress/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/391cd7f793a3fa454c7dc28e77bd5f8d/NativeImgCompress/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

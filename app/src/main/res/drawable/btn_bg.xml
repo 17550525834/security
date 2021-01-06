@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Style for "21" -->
+    <!-- Add this snippet to layer-list xml in drawable. -->
+    <item android:width="345dp" android:height="48dp" android:gravity="center">
+        <shape android:shape="rectangle">
+            <corners android:radius="5dp" />
+            <solid android:color="#4287ff" />
+        </shape>
+    </item>
+</layer-list>

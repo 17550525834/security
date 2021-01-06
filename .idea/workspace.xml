@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b8beb0e-9c6a-4e69-8264-02d091cfcf4a" name="Default Changelist" comment="初次提交">
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Tarf530.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle___NativeImgCompress__aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_alibaba_fastjson_1_2_54_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_8_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_8_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_chrisbanes_PhotoView_2_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_lxj_matisse_1_0_8_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_scwang_smartrefresh_SmartRefreshLayout_1_0_4_4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_11_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_picasso_picasso_2_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_tbruyelle_rxpermissions2_rxpermissions_0_9_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxjava_2_1_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_http_legacy_android_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_java_websocket_Java_WebSocket_1_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarf530.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/ZBLibrary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/.transforms/02c1aa14bd88f8b164cc2610238f24e9.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/.transforms/02c1aa14bd88f8b164cc2610238f24e9/full/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/.transforms/1cb6d6e07eb22747674c52e3dd0a16e2.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/.transforms/26a51ca76233f25187b65063b96d128c.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/.transforms/3cb754a8be0966869ef03a0c9df796e2.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/.transforms/3cb754a8be0966869ef03a0c9df796e2/full/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/.transforms/dd2139b2247c4742f6fbde2184a88128.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/.transforms/dd2139b2247c4742f6fbde2184a88128/full/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/generated/source/buildConfig/debug/zuo/biao/library/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/annotations_typedef_file/debug/extractDebugAnnotations/typedefs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/compile_library_classes/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/full_jar/debug/createFullJarDebug/full.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/incremental/packageDebugAssets/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/BuildConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseActivity$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseActivity$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseActivity$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseActivity$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseActivity$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseAdapter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseAdapter$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseBottomTabActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseBottomTabActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseBottomWindow$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseBottomWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseBroadcastReceiver$OnReceiveListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseBroadcastReceiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseFragment$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseFragment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpListActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpListActivity$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpListActivity$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpListActivity$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpListActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpListFragment$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpListFragment$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpListFragment$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpListFragment$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpListFragment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpRecyclerActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpRecyclerActivity$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpRecyclerActivity$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpRecyclerActivity$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpRecyclerActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpRecyclerFragment$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpRecyclerFragment$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpRecyclerFragment$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpRecyclerFragment$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseHttpRecyclerFragment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseListActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseListActivity$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseListActivity$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseListActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseListFragment$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseListFragment$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseListFragment$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseListFragment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseRecyclerActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseRecyclerActivity$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseRecyclerActivity$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseRecyclerActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseRecyclerFragment$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseRecyclerFragment$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseRecyclerFragment$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseRecyclerFragment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseTabActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseTabActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseTabFragment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseView$OnDataChangedListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseView$OnViewClickListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/base/BaseViewBottomWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/interfaces/ActivityPresenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/interfaces/AdapterCallBack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/interfaces/AdapterViewPresenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/interfaces/CacheCallBack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/interfaces/FragmentPresenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/interfaces/OnBottomDragListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/interfaces/OnHttpResponseListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/interfaces/OnLoadListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/interfaces/OnStopLoadListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/interfaces/Presenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/interfaces/ViewPresenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/Cache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/CacheManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/CityDB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/HttpManager$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/HttpManager$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/HttpManager$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/HttpManager$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/HttpManager$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/HttpManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/SystemBarTintManager$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/SystemBarTintManager$SystemBarConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/SystemBarTintManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/ThreadManager$ThreadBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/ThreadManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/TimeRefresher$OnTimeRefreshListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/TimeRefresher$TimeHolder$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/TimeRefresher$TimeHolder$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/TimeRefresher$TimeHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/manager/TimeRefresher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/model/City.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/model/Dictionary$ResBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/model/Dictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/model/Entry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/model/GridPickerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/model/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/model/Parameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/AlertDialog$OnDialogButtonClickListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/AlertDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/BottomMenuView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/BottomMenuView$OnBottomMenuItemClickListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/BottomMenuView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/BottomMenuWindow$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/BottomMenuWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/CutPictureActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/DatePickerWindow$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/DatePickerWindow$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/DatePickerWindow$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/DatePickerWindow$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/DatePickerWindow$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/DatePickerWindow$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/DatePickerWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/EditTextInfoActivity$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/EditTextInfoActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/EditTextInfoActivity$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/EditTextInfoActivity$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/EditTextInfoActivity$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/EditTextInfoActivity$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/EditTextInfoActivity$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/EditTextInfoActivity$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/EditTextInfoActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/EditTextInfoWindow$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/EditTextInfoWindow$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/EditTextInfoWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/GridAdapter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/GridAdapter$ViewHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/GridAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/GridPickerAdapter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/GridPickerAdapter$ViewHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/GridPickerAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/GridPickerView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/GridPickerView$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/GridPickerView$OnTabClickListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/GridPickerView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/ItemDialog$OnDialogItemClickListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/ItemDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/MaxHeightWrapLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/MaxWidthWrapLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/PlacePickerWindow$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/PlacePickerWindow$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/PlacePickerWindow$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/PlacePickerWindow$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/PlacePickerWindow$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/PlacePickerWindow$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/PlacePickerWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/SelectPictureActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/ServerSettingActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/SquareLinearLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/SquareRelativeLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TextClearSuit$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TextClearSuit$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TextClearSuit$onTextChangedListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TextClearSuit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TimePickerWindow$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TimePickerWindow$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TimePickerWindow$2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TimePickerWindow$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TimePickerWindow$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TimePickerWindow$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TimePickerWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TopMenuWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TopTabView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TopTabView$OnTabSelectedListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/TopTabView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/WebViewActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/WebViewActivity$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/ui/WebViewActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/CommonUtil$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/CommonUtil$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/CommonUtil$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/CommonUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/ContactUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/DataKeeper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/DownloadUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/EditTextUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/JSON.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/Log.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/MD5Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/PlaceUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/SSLUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/ScreenUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/SettingUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/StringUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/TimeUtil$Day.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/TimeUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/thread/pool/CacheThreadPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/thread/pool/DefaultThreadPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/javac/debug/classes/zuo/biao/library/util/thread/pool/ThreadPoolProxyFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/library_java_res/debug/res.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/local_only_symbol_list/debug/parseDebugLibraryResources/R-def.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/merged_java_res/debug/out.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/merged_manifests/debug/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged-classes/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/anim/bottom_push_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/anim/bottom_push_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/anim/bottom_window_enter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/anim/bottom_window_exit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/anim/fade.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/anim/hold.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/anim/left_push_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/anim/left_push_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/anim/null_anim.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/anim/push_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/anim/push_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/anim/right_push_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/anim/right_push_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/color/alpha_to_darker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/color/black_to_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/color/blue_to_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/color/blue_to_gray.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/color/gray_to_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/color/white_to_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable-hdpi-v4/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable-hdpi-v4/add_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable-hdpi-v4/add_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable-hdpi-v4/back2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable-hdpi-v4/back2_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable-hdpi-v4/cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable-hdpi-v4/cancel_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable-hdpi-v4/forward2_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable-hdpi-v4/forward_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable-hdpi-v4/triangle_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable-hdpi-v4/triangle_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable-hdpi-v4/up_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable-hdpi-v4/xlistview_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/alpha3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/alpha_to_darker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/black_to_white_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/bottom_menu_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/bottom_menu_cancel_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/bottom_menu_cancel_bg_normal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/bottom_menu_cancel_bg_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/bottom_menu_item_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/bottomline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_blue_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_blue_normal_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_blue_pressed_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_blue_round_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_blue_round_bg_normal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_blue_round_bg_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_blue_round_big_normal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_blue_round_big_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_blue_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_blue_sky_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_blue_small.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_green_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_orange_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_red_round_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_red_round_bg_normal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/btn_red_round_bg_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/cilcle_gray.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/cilcle_gray_to_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/circle_blue.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/circle_green.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/circle_pink.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/circle_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/circle_yellow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/dialog_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/dialog_bg_common.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/dialog_bg_rec.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/dialog_btn_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/dialog_left_btn_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/dialog_right_btn_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/edit_cusor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/edit_item_text_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/edit_text_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/gray_to_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/green_to_darker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/icon_gray_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/icon_white_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/input_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/input_bg_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/list_item_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/list_item_blank_divider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/null_drawable.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/oval_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/oval_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/progress_horizontal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/round_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/round_empty_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/round_green.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/square_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/tab_bg_center_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/tab_bg_left_full_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/tab_bg_left_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/tab_bg_right_full_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/tab_bg_right_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/to_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/to_gray_slight.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/to_white_slight.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/white_to_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/drawable/white_to_gray.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/alert_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/base_http_list_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/base_http_recycler_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/base_list_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/base_recycler_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/base_tab_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/base_view_bottom_window.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/blank_middle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/bottom_menu_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/bottom_menu_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/bottom_menu_window.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/divider_horizontal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/divider_vertical_1dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/divider_vertical_1px.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/edit_text_info_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/edit_text_info_window.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/grid_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/grid_picker_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/grid_picker_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/icon_name_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/image_picker_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/image_picker_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/item_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/item_dialog_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/key_value_divider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/key_value_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/key_value_item_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/list_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/progress_circle_big.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/select_picture_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/server_setting_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/square_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/top_menu_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/top_menu_window.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/top_right_iv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/top_right_tv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/top_tab_tv_center.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/top_tab_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/layout/web_view_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/packaged_res/debug/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/runtime_library_classes/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/intermediates/symbols/debug/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/outputs/aar/ZBLibrary-debug.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseBottomTabActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseBottomWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseBroadcastReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseHttpListActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseHttpListFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseHttpRecyclerActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseHttpRecyclerFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseListActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseListFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseRecyclerActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseRecyclerFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseTabActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseTabFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/BaseViewBottomWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/base/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/interfaces/ActivityPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/interfaces/AdapterCallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/interfaces/AdapterViewPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/interfaces/CacheCallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/interfaces/FragmentPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/interfaces/OnBottomDragListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/interfaces/OnHttpResponseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/interfaces/OnLoadListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/interfaces/OnStopLoadListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/interfaces/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/interfaces/ViewPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/interfaces/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/manager/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/manager/CacheManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/manager/CityDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/manager/HttpManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/manager/SystemBarTintManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/manager/ThreadManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/manager/TimeRefresher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/manager/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/model/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/model/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/model/Entry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/model/GridPickerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/model/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/model/Parameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/model/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/AlertDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/BottomMenuView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/BottomMenuWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/CutPictureActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/DatePickerWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/EditTextInfoActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/EditTextInfoWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/GridAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/GridPickerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/GridPickerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/ItemDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/MaxHeightWrapLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/MaxWidthWrapLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/PlacePickerWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/SelectPictureActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/ServerSettingActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/SquareLinearLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/SquareRelativeLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/TextClearSuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/TimePickerWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/TopMenuWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/TopTabView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/WebViewActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/ui/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/CommonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/ContactUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/DataKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/DownloadUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/EditTextUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/JSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/MD5Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/PlaceUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/SSLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/ScreenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/SettingUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/TimeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/thread/pool/CacheThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/thread/pool/DefaultThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/java/zuo/biao/library/util/thread/pool/ThreadPoolProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/anim/bottom_push_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/anim/bottom_push_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/anim/bottom_window_enter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/anim/bottom_window_exit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/anim/fade.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/anim/hold.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/anim/left_push_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/anim/left_push_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/anim/null_anim.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/anim/push_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/anim/push_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/anim/right_push_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/anim/right_push_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/color/alpha_to_darker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/color/black_to_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/color/blue_to_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/color/blue_to_gray.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/color/gray_to_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/color/white_to_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable-hdpi/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable-hdpi/add_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable-hdpi/add_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable-hdpi/back2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable-hdpi/back2_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable-hdpi/cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable-hdpi/cancel_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable-hdpi/forward2_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable-hdpi/forward_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable-hdpi/triangle_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable-hdpi/triangle_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable-hdpi/up_light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable-hdpi/xlistview_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/alpha3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/alpha_to_darker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/black_to_white_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/bottom_menu_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/bottom_menu_cancel_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/bottom_menu_cancel_bg_normal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/bottom_menu_cancel_bg_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/bottom_menu_item_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/bottomline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_blue_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_blue_normal_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_blue_pressed_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_blue_round_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_blue_round_bg_normal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_blue_round_bg_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_blue_round_big_normal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_blue_round_big_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_blue_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_blue_sky_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_blue_small.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_green_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_orange_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_red_round_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_red_round_bg_normal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/btn_red_round_bg_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/cilcle_gray.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/cilcle_gray_to_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/circle_blue.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/circle_green.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/circle_pink.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/circle_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/circle_yellow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/dialog_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/dialog_bg_common.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/dialog_bg_rec.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/dialog_btn_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/dialog_left_btn_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/dialog_right_btn_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/edit_cusor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/edit_item_text_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/edit_text_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/gray_to_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/green_to_darker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/icon_gray_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/icon_white_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/input_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/input_bg_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/list_item_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/list_item_blank_divider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/null_drawable.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/oval_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/oval_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/progress_horizontal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/round_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/round_empty_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/round_green.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/square_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/tab_bg_center_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/tab_bg_left_full_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/tab_bg_left_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/tab_bg_right_full_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/tab_bg_right_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/to_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/to_gray_slight.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/to_white_slight.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/white_to_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/drawable/white_to_gray.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/alert_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/base_http_list_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/base_http_recycler_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/base_list_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/base_recycler_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/base_tab_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/base_view_bottom_window.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/blank_middle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/bottom_menu_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/bottom_menu_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/bottom_menu_window.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/divider_horizontal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/divider_vertical_1dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/divider_vertical_1px.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/edit_text_info_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/edit_text_info_window.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/grid_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/grid_picker_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/grid_picker_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/icon_name_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/image_picker_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/image_picker_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/item_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/item_dialog_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/key_value_divider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/key_value_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/key_value_item_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/list_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/progress_circle_big.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/select_picture_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/server_setting_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/square_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/top_menu_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/top_menu_window.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/top_right_iv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/top_right_tv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/top_tab_tv_center.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/top_tab_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/layout/web_view_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/values/arrays.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/values/ids.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZBLibrary/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/NativeImgCompress.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/app-release.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/release/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/zc/tarf530/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/activity/EventInfoActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/activity/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/activity/MainTabActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/activity/PhotoActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/adapter/DemoAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/adapter/EventAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/adapter/GridViewAddImgesAdpter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/app/RFApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/fragment/CallFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/fragment/DemoListFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/fragment/DemoTabFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/fragment/EventFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/fragment/MapFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/fragment/TaskFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/im/JWebSocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/im/JWebSocketClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/model/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/model/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/model/EventInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/model/EventUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/model/LoginRawResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/model/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/model/ReportResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/model/SubmitResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/model/UploadResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/ui/TopTabView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/util/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/util/CrashHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/util/DateUtilNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/util/GPSHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/util/GifSizeFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/util/Glide4Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/util/HttpRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/util/ShareData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/view/DemoView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/view/EventView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/view/MyGridView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/add_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bt_dynamic_del.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/communication_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dl_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/down2_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/edittext_bg1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/event_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icon_ck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/img_levelhigh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/img_levellow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/img_levelmiddle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/item_btn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/level1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/level2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/level3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/level4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/login_btn_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/login_btn_bg_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/login_btn_bg_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/return_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/search_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/task_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/ac_eventinfo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/ac_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/ac_main_tab.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/ac_photoinfo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/demo_list_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/demo_tab_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/demo_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_add_picture.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/event_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fg_webview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_published_grida.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/icon_password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/icon_yonghuming.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/addimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/addvideo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/bt_dynamic_del_focused.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/bt_dynamic_del_unfocused.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/btn_bottom_arc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/btn_top_arc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/call_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/event.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/event_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/image_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/noimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/novideo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/query.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/query_hove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/task.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/task_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/file_paths_private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/file_paths_public.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/zc/tarf530/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid74103.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid80101.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid80700.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replay_pid74103.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replay_pid80101.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Tarf530" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>APP_BASE_URL</find>
+      <find>/</find>
+      <find>acs-event</find>
+      <find>URL_BASE_TASK</find>
+      <find>URL_BASE</find>
+      <find>postSpecial</find>
+      <find>ShareData</find>
+      <find>locus</find>
+      <find>OnLocationResultListener</find>
+      <find>5afcec02a761cc518dfcb73e86240bd7e4be43bd81e1a80e48e3a7a70c190db1bfa460d9e20e717acd9dedb6299d61e4b64cd0f87db1bdc3970d179941827df8</find>
+      <find>locationReport</find>
+      <find>interval</find>
+      <find>requestIntervalLocation</find>
+      <find>report</find>
+      <find>用户</find>
+      <find>getEventList</find>
+    </findStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="E:\workspace\keys\android.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1md7HxIuCuOr8jEpWEH2vCl51V5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="MDX0220619018700" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-05T03:17:06.946Z" />
+    <property name="ExportApk.ApkPath" value="C:\Users\1\AndroidStudioProjects\Tarf530\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b8beb0e-9c6a-4e69-8264-02d091cfcf4a" name="Default Changelist" comment="" />
+      <created>1594708898237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594708898237</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="初次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="184" key="#PSD" timestamp="1609897033999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="378" y="184" key="#PSD/0.0.1536.824@0.0.1536.824" timestamp="1609897033999" />
+    <state x="473" y="232" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1609833523473" />
+    <state x="806" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1609833676254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609833676254" />
+    <state x="449" y="9" key="CommitChangelistDialog2" timestamp="1609899975110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1609899975110" />
+    <state x="561" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1609837594754" />
+    <state x="585" y="191" key="FileChooserDialogImpl" timestamp="1609898912422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="585" y="191" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609898912422" />
+    <state x="731" y="241" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609836347079" />
+    <state width="1877" height="384" key="GridCell.Tab.0.bottom" timestamp="1609839846751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="384" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609839846751" />
+    <state width="1877" height="384" key="GridCell.Tab.0.center" timestamp="1609839846751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="384" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609839846751" />
+    <state width="1877" height="384" key="GridCell.Tab.0.left" timestamp="1609839846751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="384" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609839846751" />
+    <state width="1877" height="384" key="GridCell.Tab.0.right" timestamp="1609839846751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="384" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609839846751" />
+    <state x="369" y="109" key="SettingsEditor" timestamp="1609899968029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="369" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609899968029" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609838415780" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609899462302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609899462302" />
+    <state x="512" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1609897605954">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="273" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1609897605954" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609838632360" />
+    <state x="554" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609894405885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="554" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1609894405885" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/activity/LoginActivity.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/util/HttpRequest.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/util/HttpRequest.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/activity/LoginActivity.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/activity/LoginActivity.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/zc/tarf530/activity/LoginActivity.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+</project>

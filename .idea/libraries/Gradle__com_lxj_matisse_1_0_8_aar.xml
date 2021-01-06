@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lxj:matisse:1.0.8@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1db77bb23ed78fdeb9672e941a0ca33e/jetified-matisse-1.0.8/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1db77bb23ed78fdeb9672e941a0ca33e/jetified-matisse-1.0.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1db77bb23ed78fdeb9672e941a0ca33e/jetified-matisse-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1db77bb23ed78fdeb9672e941a0ca33e/jetified-matisse-1.0.8/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lxj/matisse/1.0.8/e485093658a905b2933036d532a2965f6bf98816/matisse-1.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lxj/matisse/1.0.8/8a16de35a63535fa30382072e49571fd2918750b/matisse-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

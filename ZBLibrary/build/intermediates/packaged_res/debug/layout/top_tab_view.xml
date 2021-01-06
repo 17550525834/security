@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/topbar_tab_bg"
+    android:layout_height="45dp"
+    android:background="@color/white">
+
+    <LinearLayout
+        style="@style/ll_vertical_wrap_wrap"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/tvTopTabViewTabFirst"
+            style="@style/topbar_tab_tv_left"
+            android:text="FIRST" />
+        <ImageView
+            android:id="@+id/leftline"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:visibility="invisible"
+            android:src="@drawable/bottomline"></ImageView>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_vertical_wrap_wrap"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/tvTopTabViewTabSecond"
+            style="@style/topbar_tab_tv_left"
+            android:text="2" />
+        <ImageView
+            android:id="@+id/twoline"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:visibility="invisible"
+            android:src="@drawable/bottomline"></ImageView>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/llTopTabViewContainer"
+        style="@style/ll_horizontal_wrap_match"></LinearLayout>
+    <LinearLayout
+        style="@style/ll_vertical_wrap_wrap"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/tvTopTabViewTabThird"
+            style="@style/topbar_tab_tv_right"
+            android:text="3" />
+        <ImageView
+            android:id="@+id/threeline"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:visibility="invisible"
+            android:src="@drawable/bottomline"></ImageView>
+    </LinearLayout>
+    <LinearLayout
+        style="@style/ll_vertical_wrap_wrap"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/tvTopTabViewTabLast"
+            style="@style/topbar_tab_tv_right"
+            android:text="LAST" />
+        <ImageView
+            android:id="@+id/rightline"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:visibility="invisible"
+            android:src="@drawable/bottomline"></ImageView>
+    </LinearLayout>
+</LinearLayout>

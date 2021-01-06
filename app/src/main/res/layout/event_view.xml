@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?><!-- ListView中的ItemView里不要用Button等默认hasFocus的控件，以免onItemClick事件无响应 --><!-- 如果一定要用，则必须在根布局加上 android:descendantFocusability="blocksDescendants" -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/ll_horizontal_match_wrap"
+    android:background="@drawable/white_to_alpha"
+    android:layout_height="90dp"
+    android:paddingLeft="4dp">
+
+
+    <LinearLayout
+        android:id="@+id/ll_eventitem"
+        style="@style/ll_vertical_match_wrap"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="4dp">
+
+
+        <LinearLayout
+            style="@style/ll_horizontal_wrap_wrap"
+            android:layout_margin="3dp">
+            <TextView
+                android:id="@+id/tvEventTitle"
+                style="@style/text_middle"
+                android:maxLines="1"
+                android:maxLength="32"
+                android:text=""
+                android:textColor="@color/black"
+                />
+            <ImageView
+                android:id="@+id/ivEventLevel"
+                android:layout_width="40dp"
+                android:layout_height="15dp"
+                android:layout_marginLeft="10dp"
+                android:gravity="center"
+                android:src="@drawable/level1"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvEventType"
+            style="@style/text_middle"
+            android:textSize="@dimen/text_size_small"
+            android:layout_margin="3dp"
+            android:text="运输事件" />
+        <TextView
+            android:id="@+id/tvEventTime"
+            style="@style/text_micro"
+            android:textColor="@color/gray_2"
+            android:textSize="@dimen/text_size_micro"
+            android:layout_margin="3dp"
+            android:text="2019-8-21" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnItemInfo"
+        style="@style/img_fitXY"
+        android:layout_width="21dp"
+        android:layout_height="21dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/icon_ck"
+        android:textColor="#4287ff" />
+
+</LinearLayout>

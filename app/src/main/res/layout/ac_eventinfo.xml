@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/activity_page"
+    tools:ignore="MissingDefaultResource">
+
+    <RelativeLayout style="@style/topbar_bg">
+
+        <ImageButton style="@style/topbar_return_img" />
+
+        <TextView
+            style="@style/topbar_title"
+            android:layout_centerHorizontal="true"
+            android:text="事件" />
+
+        <ImageButton
+            style="@style/topbar_right_img"
+            android:src="@drawable/add"
+            android:visibility="gone" />
+        <TextView
+            android:id="@+id/btn_submit"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:text="提交"
+            android:layout_marginRight="10dp"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+             />
+
+    </RelativeLayout>
+
+    <FrameLayout style="@style/match_match">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:id="@+id/ll_eventname"
+                    style="@style/ll_horizontal_match_wrap"
+                    android:layout_margin="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/wrap_wrap"
+                        android:layout_margin="5dp"
+                        android:text="事件名称"
+                        android:textColor="@color/gray_5"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:id="@+id/tv_eventname"
+                        style="@style/wrap_wrap"
+                        android:layout_marginLeft="20dp"
+                        android:layout_weight="1"
+                        android:text="点击选择"
+                        android:textColor="@color/black2"
+                        android:visibility="gone"
+                        android:textSize="@dimen/text_size_middle" />
+                    <EditText
+                        android:id="@+id/et_eventname"
+
+                        style="@style/wrap_wrap"
+                        android:layout_marginLeft="20dp"
+                        android:layout_weight="1"
+                        android:hint="点击输入"
+                        android:background="@null"
+                        android:textColor="@color/black2"
+                        android:textSize="@dimen/text_size_middle" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bg_gray"></View>
+                <LinearLayout
+                    android:id="@+id/ll_eventtype"
+                    style="@style/ll_horizontal_match_wrap"
+                    android:layout_margin="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/wrap_wrap"
+                        android:layout_margin="5dp"
+                        android:text="事件类型"
+                        android:textColor="@color/gray_5"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:id="@+id/tv_eventtype"
+                        style="@style/wrap_wrap"
+                        android:layout_marginLeft="20dp"
+                        android:layout_weight="1"
+                        android:text="点击选择"
+                        android:textColor="@color/black2"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:id="@+id/tv_typerightarrow"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:text=">"
+                        android:textSize="@dimen/text_size_large" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bg_gray"></View>
+
+                <LinearLayout
+                    android:id="@+id/ll_eventlevel"
+                    style="@style/ll_horizontal_match_wrap"
+                    android:layout_margin="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/wrap_wrap"
+                        android:layout_margin="5dp"
+                        android:text="事件级别"
+                        android:textColor="@color/gray_5"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:id="@+id/tv_eventlevel"
+                        style="@style/wrap_wrap"
+                        android:layout_marginLeft="20dp"
+                        android:layout_weight="1"
+                        android:text="点击选择"
+                        android:textColor="@color/black2"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:id="@+id/tv_leveltrightarrow"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:text=">"
+                        android:textSize="@dimen/text_size_large" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bg_gray"></View>
+                <LinearLayout
+                    android:id="@+id/ll_eventlocation"
+                    android:visibility="gone"
+                    style="@style/ll_horizontal_match_wrap"
+                    android:layout_margin="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/wrap_wrap"
+                        android:layout_margin="5dp"
+                        android:text="发生位置"
+                        android:textColor="@color/gray_5"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:id="@+id/tv_eventlocation"
+                        style="@style/wrap_wrap"
+                        android:layout_marginLeft="20dp"
+                        android:layout_weight="1"
+                        android:text="点击选择"
+                        android:textColor="@color/gray_5"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:visibility="invisible"
+                        android:text=">"
+                        android:textSize="@dimen/text_size_large" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bg_gray"></View>
+                <LinearLayout
+                    android:id="@+id/ll_eventtime"
+                    style="@style/ll_horizontal_match_wrap"
+                    android:layout_margin="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/wrap_wrap"
+                        android:layout_margin="5dp"
+                        android:text="发生时间"
+                        android:textColor="@color/gray_5"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:id="@+id/tv_eventtime"
+                        style="@style/wrap_wrap"
+                        android:layout_marginLeft="20dp"
+                        android:layout_weight="1"
+                        android:text="点击选择"
+                        android:textColor="@color/black2"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:id="@+id/tv_eventtimerightarrow"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:text=">"
+                        android:textSize="@dimen/text_size_large" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bg_gray"></View>
+                <LinearLayout
+                    android:id="@+id/ll_eventhumens"
+                    style="@style/ll_horizontal_match_wrap"
+                    android:layout_margin="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/wrap_wrap"
+                        android:layout_margin="5dp"
+                        android:text="涉及人数"
+                        android:textColor="@color/gray_5"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <EditText
+                        android:id="@+id/et_eventhumens"
+                        style="@style/wrap_wrap"
+                        android:layout_marginLeft="20dp"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:hint="点击输入"
+                        android:inputType="number"
+                        android:textColor="@color/black2"
+                        android:textSize="@dimen/text_size_middle" />
+                    <TextView
+                        android:id="@+id/tv_eventhumens"
+                        style="@style/wrap_wrap"
+                        android:layout_marginLeft="20dp"
+                        android:layout_weight="1"
+                        android:textColor="@color/black2"
+                        android:textSize="@dimen/text_size_middle" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:visibility="invisible"
+                        android:text=">"
+                        android:textSize="@dimen/text_size_large" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bg_gray"></View>
+                <LinearLayout
+                    android:id="@+id/ll_eventhurt"
+                    style="@style/ll_horizontal_match_wrap"
+                    android:layout_margin="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/wrap_wrap"
+                        android:layout_margin="5dp"
+                        android:text="伤亡情况"
+                        android:textColor="@color/gray_5"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <EditText
+                        android:id="@+id/et_eventhurt"
+                        style="@style/wrap_wrap"
+                        android:layout_marginLeft="20dp"
+                        android:layout_weight="1"
+                        android:hint="点击输入"
+                        android:background="@null"
+                        android:inputType="number"
+                        android:textColor="@color/black2"
+                        android:textSize="@dimen/text_size_middle" />
+                    <TextView
+                        android:id="@+id/tv_eventhurt"
+                        style="@style/wrap_wrap"
+                        android:layout_marginLeft="20dp"
+                        android:layout_weight="1"
+                        android:textColor="@color/black2"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:visibility="invisible"
+                        android:text=">"
+                        android:textSize="@dimen/text_size_large" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="34dp"
+                    android:background="@color/bg_gray"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_marginLeft="15dp"
+                        android:textSize="@dimen/text_size_middle"
+                        style="@style/wrap_wrap"
+                        android:text="事件情况说明"/>
+                </LinearLayout>
+                <EditText
+                    android:id="@+id/et_eventinfo"
+                    android:layout_margin="15dp"
+                    style="@style/match_wrap"
+                    android:background="@null"
+                    android:hint="请输入"/>
+                <TextView
+                    android:id="@+id/tv_eventinfo"
+                    android:layout_margin="15dp"
+                    style="@style/match_wrap"
+                    android:textColor="@color/black2"
+                    />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="34dp"
+                    android:background="@color/bg_gray"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_marginLeft="15dp"
+                        android:textSize="@dimen/text_size_middle"
+                        style="@style/wrap_wrap"
+                        android:text="现场照片"/>
+                </LinearLayout>
+                <com.zc.tarf530.view.MyGridView
+                    android:layout_margin="10dp"
+                    android:verticalSpacing="5dp"
+                    android:id="@+id/gw_event"
+                    android:numColumns="5"
+                    android:columnWidth="66dp"
+                    android:stretchMode="columnWidth"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@color/bg_gray"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_marginLeft="15dp"
+                        android:textSize="@dimen/text_size_middle"
+                        style="@style/wrap_wrap"
+                        android:text="现场视频"/>
+                </LinearLayout>
+                <com.zc.tarf530.view.MyGridView
+                    android:layout_margin="10dp"
+                    android:verticalSpacing="5dp"
+                    android:id="@+id/gw_eventvideo"
+                    android:numColumns="5"
+                    android:columnWidth="66dp"
+                    android:stretchMode="columnWidth"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="10dp"
+                    android:background="@color/bg_gray"></View>
+                <LinearLayout
+                    style="@style/ll_horizontal_match_wrap"
+                    android:layout_margin="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/wrap_wrap"
+                        android:layout_margin="5dp"
+                        android:text="所属机构"
+                        android:textColor="@color/gray_5"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:id="@+id/tv_affiliation"
+                        style="@style/wrap_wrap"
+                        android:layout_marginLeft="20dp"
+                        android:layout_weight="1"
+                        android:text="请选择"
+                        android:textColor="@color/black2"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:visibility="invisible"
+                        android:text=">"
+                        android:textSize="@dimen/text_size_large" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bg_gray"></View>
+                <LinearLayout
+                    style="@style/ll_horizontal_match_wrap"
+                    android:layout_margin="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/wrap_wrap"
+                        android:layout_margin="5dp"
+                        android:text="操作人员"
+                        android:textColor="@color/gray_5"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:id="@+id/tv_username"
+                        style="@style/wrap_wrap"
+                        android:layout_marginLeft="20dp"
+                        android:layout_weight="1"
+                        android:text="请选择"
+                        android:textColor="@color/black2"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:visibility="invisible"
+                        android:text=">"
+                        android:textSize="@dimen/text_size_large" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bg_gray"></View>
+                <LinearLayout
+                    style="@style/ll_horizontal_match_wrap"
+                    android:layout_margin="10dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/wrap_wrap"
+                        android:layout_margin="5dp"
+                        android:text="操作时间"
+                        android:textColor="@color/gray_5"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:id="@+id/tv_reporttime"
+                        style="@style/wrap_wrap"
+                        android:layout_marginLeft="20dp"
+                        android:layout_weight="1"
+                        android:text="请选择"
+                        android:textColor="@color/black2"
+                        android:textSize="@dimen/text_size_middle" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:text=">"
+                        android:visibility="invisible"
+                        android:textSize="@dimen/text_size_large" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:background="@color/bg_gray"></View>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/ll_btn_report"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="bottom"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_save"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="#4287ff"
+                android:text="保存"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_large" />
+
+            <Button
+                android:id="@+id/btn_cancel"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:text="提交"
+                android:textSize="@dimen/text_size_large" />
+        </LinearLayout>
+
+    </FrameLayout>
+
+
+</LinearLayout>
